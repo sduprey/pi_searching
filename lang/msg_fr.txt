@@ -1,0 +1,13 @@
+# Labels
+LangBarTitle=Langues
+SequenceBarTitle=Séquence de chiffres recherchée
+ResultBarTitle=Résultats
+
+# Messages
+LoadInterface=Chargement de l'interface PI Search
+StringDoNotOccurs=La séquence <%s> n'a pas été trouvée dans les 200 millions premières décimales de PI.
+StringOccursNTimes=Cette séquence a été trouvée <%d> fois dans les 200 premiers millions de décimales de PI.
+PositionLabel=Position n°<%d> :
+PositionValue=à partir de la <%s> ème décimale.
+PreviousDigits=...%s
+NextDigits=%s...

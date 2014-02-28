@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="5236E3D72EB1782808D64E02A61E60D56EE609B8">
+
+  <entryPoint>pi_startup</entryPoint>
+
+  <name>PiApp</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2013a)</createdByMATLABRelease>
+
+  <GUID>8b919d7c-cbf9-42f8-9106-cc4e3822bdd9</GUID>
+
+  <author>
+    <name>Stefan Duprey &amp; Thomas Montagnon</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts>
+    <product identifier="1" name="MATLAB" version="8.1"/>
+  </requiredProducts>
+
+  <numFiles>57</numFiles>
+
+  <created>2013-07-18T16:39:01Z</created>
+
+  <appEntries>
+    <appFile>/pi_startup.m</appFile>
+    <appFile>/data</appFile>
+    <appFile>/lang</appFile>
+    <appFile>/Patch</appFile>
+    <appFile>/+uiextras/Resources</appFile>
+    <appFile>/+uiextras/Box.m</appFile>
+    <appFile>/+uiextras/calculatePixelSizes.m</appFile>
+    <appFile>/+uiextras/callCallback.m</appFile>
+    <appFile>/+uiextras/ChildEvent.m</appFile>
+    <appFile>/+uiextras/Container.m</appFile>
+    <appFile>/data/digits_results.mat</appFile>
+    <appFile>/+uiextras/Empty.m</appFile>
+    <appFile>/+uiextras/findArg.m</appFile>
+    <appFile>/lang/flag_en.png</appFile>
+    <appFile>/lang/flag_fr.png</appFile>
+    <appFile>/lang/flag_it.png</appFile>
+    <appFile>/+uiextras/get.m</appFile>
+    <appFile>/Patch/getpixelposition.p</appFile>
+    <appFile>/+uiextras/HBox.m</appFile>
+    <appFile>/Icons.m</appFile>
+    <appFile>/Patch/isHGUsingMATLABClasses.p</appFile>
+    <appFile>/lang/msg_en.txt</appFile>
+    <appFile>/lang/msg_fr.txt</appFile>
+    <appFile>/lang/msg_it.txt</appFile>
+    <appFile>/+uiextras/Resources/backup/panelClose.png</appFile>
+    <appFile>/+uiextras/Resources/panelClose.png</appFile>
+    <appFile>/+uiextras/Resources/backup/panelDock.png</appFile>
+    <appFile>/+uiextras/Resources/panelDock.png</appFile>
+    <appFile>/+uiextras/Resources/backup/panelHelp.png</appFile>
+    <appFile>/+uiextras/Resources/panelHelp.png</appFile>
+    <appFile>/+uiextras/Resources/backup/panelMaximize.png</appFile>
+    <appFile>/+uiextras/Resources/panelMaximize.png</appFile>
+    <appFile>/+uiextras/Resources/backup/panelMinimize.png</appFile>
+    <appFile>/+uiextras/Resources/panelMinimize.png</appFile>
+    <appFile>/+uiextras/Resources/backup/panelUndock.png</appFile>
+    <appFile>/+uiextras/Resources/panelUndock.png</appFile>
+    <appFile>/Patch/README.txt</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_Background_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_Background_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_Background_Selected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_Background_Selected.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_NoEdge_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_NoEdge_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_NoEdge_Selected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_NoEdge_Selected.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_NotSelected_NoEdge.png</appFile>
+    <appFile>/+uiextras/Resources/tab_NotSelected_NoEdge.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_NotSelected_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_NotSelected_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_NotSelected_Selected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_NotSelected_Selected.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_Selected_NoEdge.png</appFile>
+    <appFile>/+uiextras/Resources/tab_Selected_NoEdge.png</appFile>
+    <appFile>/+uiextras/Resources/backup/tab_Selected_NotSelected.png</appFile>
+    <appFile>/+uiextras/Resources/tab_Selected_NotSelected.png</appFile>
+    <appFile>/uiPiApp.m</appFile>
+    <appFile>/+uiextras/VBox.m</appFile>
+  </appEntries>
+
+</appProperties>

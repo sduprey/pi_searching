@@ -1,0 +1,13 @@
+# Labels
+LangBarTitle=Languages
+SequenceBarTitle=Searched\nsequence of digits
+ResultBarTitle=Results
+
+# Messages
+LoadInterface=Loading PI Search interface
+StringDoNotOccurs=Sequence <%s> has not been found in the 200 millions first digits of PI.
+StringOccursNTimes=Sequence found <%d> times in the 200 millions first digits of PI.
+PositionLabel=Position n°<%d> :
+PositionValue=from <%s>th digit.
+PreviousDigits=...%s
+NextDigits=%s...
